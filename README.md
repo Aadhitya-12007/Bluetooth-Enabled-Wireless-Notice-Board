@@ -4,7 +4,7 @@ This is a Bluetooth Enabled Wireless Notice Board, which uses the LPC2129 microc
 Testing Steps & Operation:
 
 1. Power up the circuit. 
-2. The LCD will display "Wireless Notice Board Ready...".
+2. The LCD will display "Wireless Notice Board Ready".
 3. Open your smartphone's Bluetooth settings, search for HC-05, and pair using code 1234.
 4. Open the Serial Bluetooth Terminal app (available on Android).
 5. Connect to the HC-05 inside the app menu.

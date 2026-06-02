@@ -1,3 +1,6 @@
+//Code by Aadhitya G
+//Main code, containing the implementation of the project.
+
 #include <lpc21xx.h>
 #include "setup.h"
 

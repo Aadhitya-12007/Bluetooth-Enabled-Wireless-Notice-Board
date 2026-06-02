@@ -1,3 +1,6 @@
+//Code by Aadhitya G
+//Contains the LCD initializations and print functions
+
 #include <lpc21xx.h>
 #include "setup.h"
 
@@ -6,7 +9,7 @@
 #define E 1<<11
 
 void LCD_INIT(void){
-		IODIR0 = LCDD | RS | E;
+	IODIR0 = LCDD | RS | E;
     delay_ms(20);
     LCD_command(0x38);
     LCD_command(0x0E);

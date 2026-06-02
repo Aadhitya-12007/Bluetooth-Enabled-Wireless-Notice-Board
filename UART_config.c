@@ -1,3 +1,6 @@
+//Code by Aadhitya G
+//Contains the configuration function for UART in LPC2129 and the function to receive a byte from the HC-05 Bluetooth module
+
 #include <lpc21xx.h>
 #include "setup.h"
 

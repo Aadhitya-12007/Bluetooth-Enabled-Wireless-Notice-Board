@@ -1,3 +1,6 @@
+//Code by Aadhitya G
+//This header file contains the function declarations
+
 #ifndef setup
 #define setup
 
